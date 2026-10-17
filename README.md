@@ -28,3 +28,8 @@ GitHub is used to store, organize, and track changes to my midterm source files.
 ## Branch Demonstration
 
 This section demonstrates making changes in a separate Git branch before merging them into the main branch.
+
+## Final Midterm Source Files Demo
+
+This repository demonstrates organizing source files, managing commits, and using branches and pull requests with GitHub.
+
