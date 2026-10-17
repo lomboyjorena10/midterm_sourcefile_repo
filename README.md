@@ -24,3 +24,7 @@ This repository is created to organize and manage my midterm source files and ac
 ## Repository Management
 
 GitHub is used to store, organize, and track changes to my midterm source files.
+
+## Branch Demonstration
+
+This section demonstrates making changes in a separate Git branch before merging them into the main branch.
