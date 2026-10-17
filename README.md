@@ -20,3 +20,7 @@ This repository contains my midterm source files and activities for CC104.
 ## Purpose
 
 This repository is created to organize and manage my midterm source files and activities using Git and GitHub.
+
+## Repository Management
+
+GitHub is used to store, organize, and track changes to my midterm source files.
